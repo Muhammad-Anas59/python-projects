@@ -10,3 +10,5 @@ A basic calculator that can add, subtract, multiply, and divide two numbers.
 **How to run:**
 ```bash
 python calculator.py
+### 2.Encoder function
+    encoder.py` → An encoding function
