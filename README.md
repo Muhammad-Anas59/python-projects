@@ -1,4 +1,4 @@
-# Python Projects
+Wa# Python Projects
 
 This repository contains my beginner Python projects.  
 
@@ -13,4 +13,5 @@ python calculator.py
 ### 2.Encoder function
 A simple decoding function
 
-
+### Snake-Water-Gun game
+A game which is similar to Scissor-Water-Paper
