@@ -13,5 +13,8 @@ python calculator.py
 ### 2.Encoder function
 A simple decoding function
 
-### Snake-Water-Gun game
+### 3.Snake-Water-Gun game
 A game which is similar to Scissor-Water-Paper
+
+### 4.Library Management System
+A simple library management system for addition,updation and number of books
