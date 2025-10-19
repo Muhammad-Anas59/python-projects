@@ -21,3 +21,7 @@ A simple library management system for addition,updation and number of books
 
 ### 5.Clear The Clutter
 A program to rename all the files of a specific type to your desried name
+
+### 6.Merge The Pdf
+A program to merge all Pdf files to single/specific Pdf file
+
