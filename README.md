@@ -26,5 +26,5 @@ A program to rename all the files of a specific type to your desried name
 ### 6.Merge The Pdf
 
 A program to merge all Pdf files to single/specific Pdf file
-### 7.Shutile module working
+### 7.Shutil module working
 A program for creating large number of folders 
