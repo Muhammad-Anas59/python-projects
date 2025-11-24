@@ -26,5 +26,10 @@ A program to rename all the files of a specific type to your desried name
 ### 6.Merge The Pdf
 
 A program to merge all Pdf files to single/specific Pdf file
+
+
+### News App Api
+A program to know how API works and a news app for information
+
 ### 7.Shutil module working
 A program for creating large number of folders 
