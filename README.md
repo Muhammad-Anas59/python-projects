@@ -28,8 +28,10 @@ A program to rename all the files of a specific type to your desried name
 A program to merge all Pdf files to single/specific Pdf file
 
 
-### News App Api
+### 7.News App Api
 A program to know how API works and a news app for information
 
-### 7.Shutil module working
+### Desktop Notification system
+A program which diplays a specific notification and also reads the note
+Shutil module working
 A program for creating large number of folders 
