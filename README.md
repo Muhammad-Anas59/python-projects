@@ -28,5 +28,8 @@ A program to know how API works and a news app for information
 ### Desktop Notification system
 A program which diplays a specific notification and also reads the note
 
-**###****Shutil module working**
-A program for creating large number of folders 
+### Shutil module 
+A program for creating huge number of folders required 
+
+### Ice Cream App
+A simple console based app using the concepts of Object Oriented Programming.It displays the menu,add IceCreams to the order,view current bill,calculate bill,checkout or cancel order
